@@ -1,3 +1,4 @@
+#Calcular IMC
 peso = float(input("Ingrese su peso (KG): "))
 altura = float(input("Ingrese su altura (m): "))
 
